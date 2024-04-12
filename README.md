@@ -9,17 +9,17 @@
 - Canale O-Z: <a href="https://web.dmi.unict.it/corsi/l-31/docenti/uid.QmtzRkxKcG12Q1JtbmVtTWpkOUxENXJLam1SM2RrQS92R3NybUlHZUpUVT0=">Santamaria Daniele Francesco</a>
 - Canale O-Z: <a href="https://web.dmi.unict.it/corsi/l-31/docenti/uid.dGtoVEZIa3JJb3kxTW1UOFp4T3dZWnJLam1SM2RrQS92R3NybUlHZUpUVT0=">Spata Massimo Orazio</a>
 
---------------------------
+---
 
 ### Tutor
 - <a href="https://marcellomaugeri.github.io/en/">Maugeri Marcello</a>
 
----------------------------
+---
 
 ### Giorni e orari
 - Ogni Giovedì, dalle 15:00 alle 17:00
 
----------------------------
+---
 
 ### Lezioni
 
@@ -29,7 +29,7 @@
 | --------------------------------------------------------- | ---------- |
 | Introduzione al C++ e gestione dello Stream input da file | 11/04/2024 |
 
----------------------------
+---
 
 </div>
 
