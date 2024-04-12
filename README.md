@@ -1,6 +1,6 @@
 # Tutorato-Programmazione-2-2024-DMI
 
-Questo repository è stato creato per gestire il tutorato di programmazione 2
+**Questo repository è stato creato per gestire il tutorato di programmazione 2**
 
 ### Professori:
 - Canale A-E: <a href="https://web.dmi.unict.it/corsi/l-31/docenti/uid.bkVjTFlvU2pzNjRPUERoS0sxYmpacHJLam1SM2RrQS92R3NybUlHZUpUVT0=">Ortis Alessandro</a>
