@@ -16,8 +16,8 @@
 
 ---
 
-### Giorni e orari
-- Ogni Giovedì, dalle 15:00 alle 17:00
+### Appuntamenti
+- Ogni Giovedì dalle 15:00 alle 17:00 in aula 4
 
 ---
 
