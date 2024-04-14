@@ -23,7 +23,7 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 | TBD | 13/06/2024 |
 | TBD | 20/06/2024 |
 | Simulazione d'esame in aula | 27/06/2024 |
-| Risoluzione dubbi post-esame | 04/06/2024 |
+| Risoluzione dubbi post-esame | 04/07/2024 |
 
 ---
 
