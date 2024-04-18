@@ -30,6 +30,7 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 ### Repo degli studenti
 
 [Esempio (questa stessa repo)](https://github.com/marcellomaugeri/Tutorato-Programmazione-2-2024-DMI)
+[leonardo0503](https://github.com/leonardo0503/tutorato-prog2?tab=readme-ov-file)
 
 ---
 
