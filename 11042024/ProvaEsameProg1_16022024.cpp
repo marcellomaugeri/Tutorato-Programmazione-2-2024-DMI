@@ -90,6 +90,11 @@ int main(int argc, char* argv[]){
         cout << endl;
     }
 
-
-
+    //E) Stampo in output la matrice trasposta nell'output stream
+    for(int j=0; j<m; j++){
+        for(int i=0; i<n; i++){
+            outstream << *matrice[i][j] << " ";
+        }
+        outstream << endl;
+    }
 }
