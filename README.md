@@ -29,9 +29,11 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 
 ### Repo degli studenti
 
+[Salvatore Blundo] (https://github.com/sb-347/PROGRAMMAZIONE2)
 [leonardo0503](https://github.com/leonardo0503/tutorato-prog2)
 [Federico Antonino Questorino](https://github.com/DiscoHalo0/Prog2-tutorato.git)
 [Giuseppe Stancanelli](https://github.com/Giuseppe-code/Programmazione-2.git)
+
 ---
 
 ### Contatti
