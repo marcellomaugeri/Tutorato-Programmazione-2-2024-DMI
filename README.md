@@ -31,6 +31,7 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 
 [Esempio (questa stessa repo)](https://github.com/marcellomaugeri/Tutorato-Programmazione-2-2024-DMI)
 
+[Federico Antonino Questorino (https://github.com/DiscoHalo0/Prog2-tutorato.git)]
 ---
 
 ### Contatti
