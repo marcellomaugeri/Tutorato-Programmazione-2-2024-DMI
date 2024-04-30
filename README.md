@@ -34,6 +34,7 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 [Leonardo Amato](https://github.com/leonardo0503/tutorato-prog2)
 [Federico Antonino Questorino](https://github.com/DiscoHalo0/Prog2-tutorato.git)
 [Giuseppe Stancanelli](https://github.com/Giuseppe-code/Programmazione-2.git)
+[Luigi Domenico Castano](https://github.com/luigicast0408/Programmazione-II)
 
 ---
 
