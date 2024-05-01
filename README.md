@@ -14,11 +14,11 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 | --------------------------------------------------------- | ---------- |
 | Introduzione al C++, gestione dell'input stream, ripasso puntatori | 11/04/2024 |
 | Introduzione alla OOP, sintassi classe | 18/04/2024 |
-| TBD | 02/05/2024 |
-| TBD (Palio?) | 09/05/2024 |
+| Classi, ereditarietà e polimorfismo | 02/05/2024 |
+| Lezione annullata da recuperare | 09/05/2024 |
 | TBD | 16/05/2024 |
 | TBD | 23/05/2024 |
-| TBD | 30/05/2024 |
+| Lezione annullata da recuperare | 30/05/2024 |
 | TBD | 06/06/2024 |
 | TBD | 13/06/2024 |
 | TBD | 20/06/2024 |
