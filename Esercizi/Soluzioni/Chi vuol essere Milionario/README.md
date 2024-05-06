@@ -32,7 +32,7 @@ Bucarest
 
 Il codice di soluzione è presente dentro la directory `src`, per eseguire il codice usare il comando:
 
-```shell
+```bash
 $ make
 ```
 
