@@ -27,3 +27,13 @@ Budapest
 Bucarest
 1
 ```
+
+---
+
+Il codice di soluzione è presente dentro la directory `src`, per eseguire il codice usare il comando:
+
+```shell
+make
+```
+
+Se tutto è andato a buon fine l'eseguibile si troverà dentro la directory bin.
