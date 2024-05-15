@@ -3,6 +3,7 @@
 _This repo serves as support to the mentoring course of Programming 2 at the University of Catania held in 2024. Therefore, it will only be in Italian._
 
 Questo repository contiene il materiale didattico, comprensivo di slide ed esercitazioni, del tutorato qualificato di Programmazione 2.
+**Nota bene:** il codice presente in questo repository è stato scritto per scopi didattici e non è da considerarsi come codice ottimizzato su cui studiare, ma come esempio per comprendere i concetti trattati.
 
 ---
 
@@ -15,11 +16,11 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 | Introduzione al C++, gestione dell'input stream, ripasso puntatori | 11/04/2024 |
 | Introduzione alla OOP, sintassi classe | 18/04/2024 |
 | Classi, ereditarietà e polimorfismo | 02/05/2024 |
-| Lezione annullata da recuperare | 09/05/2024 |
+| Implementazione della Lista con le classi | 14/05/2024 |
 | TBD | 16/05/2024 |
 | TBD | 23/05/2024 |
-| Lezione annullata da recuperare | 30/05/2024 |
 | TBD | 06/06/2024 |
+| TBD (Da confermare) | 11/05/2024 |
 | TBD | 13/06/2024 |
 | TBD | 20/06/2024 |
 | Simulazione d'esame in aula | 27/06/2024 |
