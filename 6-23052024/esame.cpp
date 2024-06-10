@@ -1,5 +1,6 @@
 #include <iostream>
 #include <typeinfo>
+#include <string.h>
 
 using namespace std;
 
@@ -133,6 +134,10 @@ class Queue{
             }
         }
 
+        bool isEmpty() {
+            return !size;
+        }
+
         void enqueue(T data) {
             Node<T>* newNode = new Node<T>(data);
             if (head == nullptr) {
@@ -145,14 +150,26 @@ class Queue{
             size++;
         }
 
-        void dequeue() {
+        void nodeEnqueue(Node<T>* node) {
             if (head == nullptr) {
-                return;
+                head = node;
+                tail = node;
+            } else {
+                tail->setNext(node);
+                node->setNext(nullptr);
+                tail = node;
+            }
+            size++;
+        }
+
+        Node<T>* dequeue() {
+            if (head == nullptr) {
+                return nullptr;
             }
             Node<T>* temp = head;
             head = head->getNext();
-            delete temp;
             size--;
+            return temp;
         }
 
         T front() {
@@ -160,6 +177,14 @@ class Queue{
                 return T();
             }
             return head->getData();
+        }
+
+        Node<T>* getTail() {
+            return tail;
+        }
+
+        Node<T>* getHead() {
+            return head;
         }
 
         void print(){
@@ -172,6 +197,35 @@ class Queue{
         }
 };
 
+
+int _eliminaTipo(Queue<Frutto*>& queue, Node<Frutto*>* last, string tipo){
+    //Caso base, la coda è vuota o siamo arrivati a last, quindi restituisco count
+    if (queue.getHead() == last || queue.isEmpty()) {
+        return 0;
+    }
+
+    //Chiamo la dequeue
+    Node<Frutto*>* node = queue.dequeue();
+    //Controllo se il tipo è uguale a quello che devo eliminare
+    if (typeid(*(node->getData())).name() == tipo) {
+        //Richiamo la funzione
+        return _eliminaTipo(queue, last, tipo)+1;
+    } else {
+        //Chiamo la enqueue se non è uguale
+        queue.nodeEnqueue(node);
+        //Se last è vuoto, inizializzo last a tempo
+        if (last == nullptr)
+            last = node;
+        //Richiamo la funzione
+        return _eliminaTipo(queue, last, tipo);
+    }
+}
+
+void eliminaTipo(Queue<Frutto*>& queue, string tipo){
+    int count = _eliminaTipo(queue, nullptr, tipo);
+    cout << "Frutti eliminati: " << count << endl;
+    queue.print();
+}
 
 int main() {
     /*  Inserisco
@@ -200,4 +254,17 @@ int main() {
 
     //Mmh, qui però non stampa il sapore, perché? E come faccio a stampare il sapore?
     queue.print();
+
+    cout << "Scegli tra Arancia o Mela" << endl;
+    string tipo;
+    cin >> tipo;
+    int cont;
+    if (tipo == "Arancia") {
+        eliminaTipo(queue, typeid(Arancia).name());
+    } else if (tipo == "Mela") {
+        eliminaTipo(queue, typeid(Mela).name());
+    } else {
+        cout << "Tipo non valido" << endl;
+    }
+
 }

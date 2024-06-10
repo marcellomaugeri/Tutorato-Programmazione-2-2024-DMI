@@ -19,11 +19,11 @@ Le lezioni si tengono ogni Giovedì dalle 15:00 alle 17:00 in aula 4, DMI
 | Implementazione della Lista con le classi | 14/05/2024 |
 | Esercitazione teoria prova d'esame | 16/05/2024 |
 | Esercitazione prova d'esame | 23/05/2024 |
-| TBD | 06/06/2024 |
-| TBD (Da confermare) | 11/06/2024 |
-| TBD | 13/06/2024 |
-| TBD | 20/06/2024 |
-| Simulazione d'esame in aula | 27/06/2024 |
+| Alberi Binari di Ricerca e Risoluzione dubbi | 06/06/2024 |
+| Grafi e cenni di complessità | 11/06/2024 |
+| Simulazione prova scritta | 13/06/2024 |
+| Consigli su come affrontare l'esame di laboratorio | 20/06/2024 |
+| Simulazione d'esame di laboratorio in aula | 27/06/2024 |
 | Risoluzione dubbi post-esame | 04/07/2024 |
 
 ---
