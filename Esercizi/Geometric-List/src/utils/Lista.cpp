@@ -1,3 +1,7 @@
+/**
+ * @author MoonLightLucrix
+ * @link https://github.com/MoonLightLucrix
+*/
 template<class H>
 Nodo<H>::Nodo(H info, Nodo<H>*prec, Nodo<H>*succ): info(info), prec(prec), succ(succ) {}
 
