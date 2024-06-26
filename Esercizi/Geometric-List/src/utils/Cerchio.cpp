@@ -1,3 +1,7 @@
+/**
+ * @author MoonLightLucrix
+ * @link https://github.com/MoonLightLucrix
+*/
 Cerchio::Cerchio(double r): r(r), d(calcolaDiametro()), perimetro(calcolaPerimetro()), area(calcolaArea()) {}
 
 Cerchio::~Cerchio(){}
