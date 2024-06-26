@@ -9,7 +9,7 @@ Simulazione di esame del 09/11/2017
 
 Compilare il codice usando il comando:
 
-```shell
+```bash
 make
 ```
 
