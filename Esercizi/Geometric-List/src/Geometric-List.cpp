@@ -1,3 +1,7 @@
+/**
+ * @author MoonLightLucrix
+ * @link https://github.com/MoonLightLucrix
+*/
 #include<iostream>
 #include<cstdlib>
 #include<cstring>
