@@ -35,9 +35,9 @@ void cani(Lista<Animale*>*lista)
 
 int main(int argc, char**argv)
 {
-    if(argc!=6)
+    if(argc!=11)
     {
-        cout<<"\x1b[31musage: "<<basename(argv[0])<<" [5 nomi]\x1b[0m"<<endl;
+        cout<<"\x1b[31musage: "<<basename(argv[0])<<" [10 nomi]\x1b[0m"<<endl;
     }
     else
     {
