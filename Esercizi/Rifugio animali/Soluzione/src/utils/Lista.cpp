@@ -198,6 +198,7 @@ Lista<T>* OrderedLinkedList<T>::adotta(T x)
             for(b=testa; b->getSucc()==a; b=b->getSucc()){}
             b->setSucc(a->getSucc());
         }
+        delete a;
         s-=1;
     }
     return this;
